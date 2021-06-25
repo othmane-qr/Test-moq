@@ -6073,11 +6073,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrateur\\source\\repos\\UnitTest_Mock\\UnitTest_Mock\\UnitTest_Mock.csproj",
+      "projectUniqueName": "C:\\Users\\Administrateur\\Desktop\\Test-moq\\UnitTest_Mock\\UnitTest_Mock\\UnitTest_Mock.csproj",
       "projectName": "UnitTest_Mock",
-      "projectPath": "C:\\Users\\Administrateur\\source\\repos\\UnitTest_Mock\\UnitTest_Mock\\UnitTest_Mock.csproj",
+      "projectPath": "C:\\Users\\Administrateur\\Desktop\\Test-moq\\UnitTest_Mock\\UnitTest_Mock\\UnitTest_Mock.csproj",
       "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrateur\\source\\repos\\UnitTest_Mock\\UnitTest_Mock\\obj\\",
+      "outputPath": "C:\\Users\\Administrateur\\Desktop\\Test-moq\\UnitTest_Mock\\UnitTest_Mock\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
